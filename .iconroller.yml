@@ -1,0 +1,6 @@
+language: csharp
+
+solution: src/IconRoller.sln 
+
+mono:
+- latest

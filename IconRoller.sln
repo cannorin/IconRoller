@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "IconRoller", "IconRoller.fsproj", "{7D2A2207-DD44-4CB5-B80A-941B40BF054C}"
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "IconRoller", "src\IconRoller.fsproj", "{7D2A2207-DD44-4CB5-B80A-941B40BF054C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
